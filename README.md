@@ -10,4 +10,4 @@ same movies as the 25,000 review test set. In addition, there are another 50,000
 
 Techniques used: Natural Language processing, Machine learning(random forest)
 
-accuracy can be increase by using other classifiers and tuning parameters
+Using Machine learning accuracy can be increase by using other classifiers and tuning parameters 
